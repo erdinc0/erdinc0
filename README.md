@@ -7,7 +7,7 @@ https://i.ibb.co/GFCHMJc/ando-copy.gif
 <h1 align="center">Hi 👋, I'm Erdinç</h1>
 <h3 align="center">A passionate Cross-Platform Mobile App Developer from İzmir, Turkey</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">(https://erdinc0.github.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdinc0&label=Profile%20views&color=0e75b6&style=flat" alt="erdinc0" /> </p>
 
