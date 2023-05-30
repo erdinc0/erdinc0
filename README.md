@@ -11,7 +11,7 @@ https://i.ibb.co/GFCHMJc/ando-copy.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdinc0&label=Profile%20views&color=0e75b6&style=flat" alt="erdinc0" /> </p>
 
-- 🔭 I’m currently working on [Reminder-App](https://github.com/erdinc0/Reminder-App)
+- 🔭 I’m currently working on [Expense-Tracker-App](https://github.com/erdinc0/Reminder-App)
 
 - 💬 Ask me about **React-Native**
 
@@ -19,7 +19,7 @@ https://i.ibb.co/GFCHMJc/ando-copy.gif
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/erdinc-cosgun/](https://www.linkedin.com/in/erdinc-cosgun/)
 
-- 💼 Check Out My **Portfolio** [https://erdinc0.github.io](https://erdinc0.github.io)
+- 💼 Check out my **portfolio** [https://erdinc0.github.io](https://erdinc0.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
