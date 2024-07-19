@@ -8,7 +8,7 @@ https://i.ibb.co/Yd4Q5NW/Github-Cover.jpg
 
 [<img align="right" alt="Coding" width="400" src="https://i.ibb.co/Yf3LGHY/Github-image.png">](https://erdinc0.github.io)
 
-- 🛠️ Currently working on [makkeragency.com](https://makkeragency.com/)
+- 🛠️ Currently working on [MakkerAgency](https://makkeragency.com/)
 
 - 💻 Expert At **Framer**
 
