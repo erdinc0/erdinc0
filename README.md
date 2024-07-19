@@ -6,7 +6,7 @@ https://i.ibb.co/Yd4Q5NW/Github-Cover.jpg
 
 <h3 align="center">Web Developer</h3>
 
-[<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">](https://erdinc0.github.io)
+[<img align="right" alt="Coding" width="400" src="https://i.ibb.co/Yf3LGHY/Github-image.png">](https://erdinc0.github.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdinc0&label=Profile%20views&color=0e75b6&style=flat" alt="erdinc0" /> </p>
 
