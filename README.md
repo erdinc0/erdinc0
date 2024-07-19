@@ -14,7 +14,7 @@ https://i.ibb.co/Yd4Q5NW/Github-Cover.jpg
 
 - 📩 Hit me up **coskunerdinc06@gmail.com**
 
-- 💼 **Portfolio** [https://erdinc.co/](https://erdinc.co/)
+- 💼 **Portfolio** [erdinc.co](https://erdinc.co/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
