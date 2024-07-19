@@ -4,8 +4,8 @@ https://i.ibb.co/Yd4Q5NW/Github-Cover.jpg
 
 
 
-<h1 align="center">Hi 👋, I'm Erdinç</h1>
-<h3 align="center">A passionate Cross-Platform Mobile App Developer from İzmir, Turkey</h3>
+<h1 align="center">Hey 👋, it's Erdinç</h1>
+<h3 align="center">Web Developer</h3>
 
 [<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">](https://erdinc0.github.io)
 
