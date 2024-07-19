@@ -8,16 +8,14 @@ https://i.ibb.co/Yd4Q5NW/Github-Cover.jpg
 
 [<img align="right" alt="Coding" width="400" src="https://i.ibb.co/Yf3LGHY/Github-image.png">](https://erdinc0.github.io)
 
-- 🔭 I’m currently working on [Expense-Tracker-App](https://github.com/erdinc0/Reminder-App)
+- 🛠️ Currently working on [makkeragency.com](https://makkeragency.com/)
 
-- 💬 Ask me about **React-Native**
+- 💻 Expert At **Framer**
 
-- 📫 How to reach me **coskunerdinc06@gmail.com**
+- 📩 Hit me up **coskunerdinc06@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/erdinc-cosgun/](https://www.linkedin.com/in/erdinc-cosgun/)
-
-- 💼 Check out my **portfolio** [https://erdinc.co/](https://erdinc.co/)
-
+- 💼 **Portfolio** [https://erdinc.co/](https://erdinc.co/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erdinc-cosgun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdinc-cosgun" height="30" width="40" /></a>
