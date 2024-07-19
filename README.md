@@ -8,8 +8,6 @@ https://i.ibb.co/Yd4Q5NW/Github-Cover.jpg
 
 [<img align="right" alt="Coding" width="400" src="https://i.ibb.co/Yf3LGHY/Github-image.png">](https://erdinc0.github.io)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdinc0&label=Profile%20views&color=0e75b6&style=flat" alt="erdinc0" /> </p>
-
 - 🔭 I’m currently working on [Expense-Tracker-App](https://github.com/erdinc0/Reminder-App)
 
 - 💬 Ask me about **React-Native**
