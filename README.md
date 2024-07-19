@@ -1,5 +1,5 @@
 [![MasterHead](
-https://i.ibb.co/GFCHMJc/ando-copy.gif
+
 )](https://erdinc0.github.io)
 
 
