@@ -19,7 +19,7 @@ https://i.ibb.co/GFCHMJc/ando-copy.gif
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/erdinc-cosgun/](https://www.linkedin.com/in/erdinc-cosgun/)
 
-- 💼 Check out my **portfolio** [https://erdinc0.github.io](https://erdinc0.github.io)
+- 💼 Check out my **portfolio** [https://erdinc.co/](https://erdinc0.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
